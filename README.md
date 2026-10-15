@@ -75,8 +75,14 @@ La arquitectura y las reglas de negocio están documentadas en el README de cada
       <img src="assets/11_vista_resumen_2.jpg" width="260" alt="Vista Resumen 2"/>
     </td>
     <td align="center">
-      <b>12. Notificación Push</b><br><br>
-      <img src="assets/12_notificacion_push.jpg" width="260" alt="Notificación Push"/>
+      <b>12. Vista Resumen Bimonetaria</b><br><br>
+      <img src="assets/12_vista_resumenBimonetaria.jpg" width="260" alt="Vista Resumen Bimonetaria"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>13. Notificación Push</b><br><br>
+      <img src="assets/13_notificacion_push.jpg" width="260" alt="Notificación Push"/>
     </td>
   </tr>
 </table>
